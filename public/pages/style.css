@@ -1,0 +1,23 @@
+.titreRouge{
+    color: red;
+}
+
+.bleu{
+    color: blue;
+}
+
+.surRed{
+    background-color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.souligner{
+text-decoration: underline;
+}
+
+li{
+    font-style: italic;
+}
+
